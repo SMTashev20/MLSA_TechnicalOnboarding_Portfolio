@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a high-school student, who is studing computer science in Burgas, Bulagria :)";
+  "I am a high-school student, who is studing computer science in Burgas, Bulagria";
 
 /**
  * List of some of skills or technologies you work on, are learning,

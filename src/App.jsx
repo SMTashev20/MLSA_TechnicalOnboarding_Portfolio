@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Stanislav Tashev",
-  title: "Passionate young developer",
+  title: "Passionate young man",
   email: "Stanislav.Tashev@studentambassadors.com",
   gitHub: "https://github.com/SMTashev20",
   linkedIn: "https://www.linkedin.com/in/stanislav-tashev/",
